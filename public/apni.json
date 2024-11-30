@@ -1,0 +1,207 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/s2y0kXx/download-11.jpg",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/SyR9pp9/download-12.jpg",
+      "category": "Smartwatches",
+      "price": 349,
+      "description": "Advanced smartwatch for health and fitness tracking.",
+      "specification": [
+        "1.4-inch AMOLED display",
+        "Heart rate monitoring",
+        "Built-in GPS",
+        "Water-resistant",
+        "Up to 2-day battery life"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Dell Inspiron 16 Plus",
+      "product_image": "https://i.ibb.co.com/WHGJxcV/download-13.jpg",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Powerful laptop for professionals and creators.",
+      "specification": [
+        "16-inch 3K display",
+        "Intel Core i7 12th Gen",
+        "16GB RAM, 1TB SSD",
+        "NVIDIA GeForce RTX 3050",
+        "Fingerprint reader"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co.com/8jTYbYS/download-14.jpg",
+      "category": "Headphones",
+      "price": 399,
+      "description": "Industry-leading noise cancellation headphones.",
+      "specification": [
+        "Wireless Bluetooth",
+        "Adaptive Sound Control",
+        "30-hour battery life",
+        "Touch controls",
+        "Foldable design"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Lenovo Yoga Tab 13",
+      "product_image": "https://i.ibb.co.com/XWxD72j/download-15.jpg",
+      "category": "Tablets",
+      "price": 679,
+      "description": "Large screen tablet for productivity and entertainment.",
+      "specification": [
+        "13-inch 2K display",
+        "Snapdragon 870 processor",
+        "8GB RAM, 128GB storage",
+        "Built-in kickstand",
+        "10-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Garmin Fenix 7X",
+      "product_image": "https://i.ibb.co.com/yq8CgZh/download-16.jpg",
+      "category": "Wearables",
+      "price": 899,
+      "description": "Premium multisport GPS smartwatch.",
+      "specification": [
+        "1.4-inch solar-powered display",
+        "Heart rate and oxygen monitoring",
+        "Built-in maps and GPS",
+        "Water-resistant up to 100m",
+        "Up to 21-day battery life"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P007",
+      "product_title": "HP Omen 16",
+      "product_image": "https://i.ibb.co.com/71rJ3Tf/images-6.jpg",
+      "category": "Gaming Laptops",
+      "price": 1399,
+      "description": "High-performance gaming laptop for enthusiasts.",
+      "specification": [
+        "16.1-inch QHD display",
+        "AMD Ryzen 7 5800H",
+        "16GB RAM, 1TB SSD",
+        "NVIDIA RTX 3060",
+        "RGB backlit keyboard"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Canon EOS R6 Mark II",
+      "product_image": "https://i.ibb.co.com/bzRjHws/images-7.jpg",
+      "category": "Cameras",
+      "price": 2799,
+      "description": "Professional mirrorless camera with high-speed performance.",
+      "specification": [
+        "24.2MP full-frame sensor",
+        "4K video at 60fps",
+        "In-body stabilization",
+        "ISO 100-102400",
+        "Wi-Fi and Bluetooth"
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Philips Hue Starter Kit",
+      "product_image": "https://i.ibb.co.com/ThQVR04/download-17.jpg",
+      "category": "Smart Home",
+      "price": 199,
+      "description": "Smart lighting system for personalized lighting.",
+      "specification": [
+        "3 smart bulbs included",
+        "Bluetooth and app control",
+        "16 million colors",
+        "Voice control",
+        "Energy efficient"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P010",
+      "product_title": "GoPro Hero 12 Black",
+      "product_image": "https://i.ibb.co.com/6gpzgqY/download-18.jpg",
+      "category": "Action Cameras",
+      "price": 399,
+      "description": "Rugged and versatile action camera for adventures.",
+      "specification": [
+        "5.3K video recording at 60fps",
+        "Waterproof up to 33ft",
+        "HyperSmooth stabilization",
+        "Touchscreen display",
+        "Voice control"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P011",
+      "product_title": "LG Gram 17",
+      "product_image": "https://i.ibb.co.com/dWrTNfg/download-19.jpg",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "Ultra-lightweight laptop with long battery life.",
+      "specification": [
+        "17-inch WQXGA display",
+        "Intel Core i7 13th Gen",
+        "16GB RAM, 1TB SSD",
+        "Intel Iris Xe Graphics",
+        "Up to 19.5-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P012",
+      "product_title": "Sony Bravia XR A95K",
+      "product_image": "https://i.ibb.co.com/mHGMmgH/download-20.jpg",
+      "category": "Televisions",
+      "price": 2499,
+      "description": "Premium OLED TV with cutting-edge technology.",
+      "specification": [
+        "4K OLED display",
+        "Cognitive Processor XR",
+        "HDR10, Dolby Vision",
+        "120Hz refresh rate",
+        "HDMI 2.1 support"
+      ],
+      "availability": true,
+      "rating": 4.9
+    }
+  ]
+  
